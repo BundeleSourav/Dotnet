@@ -1,0 +1,15 @@
+G:\Practice html\dotnet\first\happ\obj\Debug\net7.0\happ.csproj.AssemblyReference.cache
+G:\Practice html\dotnet\first\happ\obj\Debug\net7.0\happ.GeneratedMSBuildEditorConfig.editorconfig
+G:\Practice html\dotnet\first\happ\obj\Debug\net7.0\happ.AssemblyInfoInputs.cache
+G:\Practice html\dotnet\first\happ\obj\Debug\net7.0\happ.AssemblyInfo.cs
+G:\Practice html\dotnet\first\happ\obj\Debug\net7.0\happ.csproj.CoreCompileInputs.cache
+G:\Practice html\dotnet\first\happ\bin\Debug\net7.0\happ.exe
+G:\Practice html\dotnet\first\happ\bin\Debug\net7.0\happ.deps.json
+G:\Practice html\dotnet\first\happ\bin\Debug\net7.0\happ.runtimeconfig.json
+G:\Practice html\dotnet\first\happ\bin\Debug\net7.0\happ.dll
+G:\Practice html\dotnet\first\happ\bin\Debug\net7.0\happ.pdb
+G:\Practice html\dotnet\first\happ\obj\Debug\net7.0\happ.dll
+G:\Practice html\dotnet\first\happ\obj\Debug\net7.0\refint\happ.dll
+G:\Practice html\dotnet\first\happ\obj\Debug\net7.0\happ.pdb
+G:\Practice html\dotnet\first\happ\obj\Debug\net7.0\happ.genruntimeconfig.cache
+G:\Practice html\dotnet\first\happ\obj\Debug\net7.0\ref\happ.dll
