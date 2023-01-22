@@ -1,0 +1,15 @@
+G:\Practice html\dotnet\fourth\test\obj\Debug\net7.0\test.csproj.AssemblyReference.cache
+G:\Practice html\dotnet\fourth\test\obj\Debug\net7.0\test.GeneratedMSBuildEditorConfig.editorconfig
+G:\Practice html\dotnet\fourth\test\obj\Debug\net7.0\test.AssemblyInfoInputs.cache
+G:\Practice html\dotnet\fourth\test\obj\Debug\net7.0\test.AssemblyInfo.cs
+G:\Practice html\dotnet\fourth\test\obj\Debug\net7.0\test.csproj.CoreCompileInputs.cache
+G:\Practice html\dotnet\fourth\test\bin\Debug\net7.0\test.exe
+G:\Practice html\dotnet\fourth\test\bin\Debug\net7.0\test.deps.json
+G:\Practice html\dotnet\fourth\test\bin\Debug\net7.0\test.runtimeconfig.json
+G:\Practice html\dotnet\fourth\test\bin\Debug\net7.0\test.dll
+G:\Practice html\dotnet\fourth\test\bin\Debug\net7.0\test.pdb
+G:\Practice html\dotnet\fourth\test\obj\Debug\net7.0\test.dll
+G:\Practice html\dotnet\fourth\test\obj\Debug\net7.0\refint\test.dll
+G:\Practice html\dotnet\fourth\test\obj\Debug\net7.0\test.pdb
+G:\Practice html\dotnet\fourth\test\obj\Debug\net7.0\test.genruntimeconfig.cache
+G:\Practice html\dotnet\fourth\test\obj\Debug\net7.0\ref\test.dll
