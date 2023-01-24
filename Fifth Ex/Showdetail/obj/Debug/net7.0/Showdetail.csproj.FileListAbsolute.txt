@@ -1,0 +1,12 @@
+G:\Practice html\dotnet\fifth\Showdetail\bin\Debug\net7.0\Showdetail.deps.json
+G:\Practice html\dotnet\fifth\Showdetail\bin\Debug\net7.0\Showdetail.dll
+G:\Practice html\dotnet\fifth\Showdetail\bin\Debug\net7.0\Showdetail.pdb
+G:\Practice html\dotnet\fifth\Showdetail\obj\Debug\net7.0\Showdetail.csproj.AssemblyReference.cache
+G:\Practice html\dotnet\fifth\Showdetail\obj\Debug\net7.0\Showdetail.GeneratedMSBuildEditorConfig.editorconfig
+G:\Practice html\dotnet\fifth\Showdetail\obj\Debug\net7.0\Showdetail.AssemblyInfoInputs.cache
+G:\Practice html\dotnet\fifth\Showdetail\obj\Debug\net7.0\Showdetail.AssemblyInfo.cs
+G:\Practice html\dotnet\fifth\Showdetail\obj\Debug\net7.0\Showdetail.csproj.CoreCompileInputs.cache
+G:\Practice html\dotnet\fifth\Showdetail\obj\Debug\net7.0\Showdetail.dll
+G:\Practice html\dotnet\fifth\Showdetail\obj\Debug\net7.0\refint\Showdetail.dll
+G:\Practice html\dotnet\fifth\Showdetail\obj\Debug\net7.0\Showdetail.pdb
+G:\Practice html\dotnet\fifth\Showdetail\obj\Debug\net7.0\ref\Showdetail.dll

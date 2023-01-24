@@ -1,0 +1,111 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Faculty/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Faculty.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Faculty.dll": {}
+        }
+      },
+      "Facultylist/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Faculty": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Facultylist.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Facultylist.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Faculty/1.0.0": {
+      "type": "project",
+      "path": "../Faculty/Faculty.csproj",
+      "msbuildProject": "../Faculty/Faculty.csproj"
+    },
+    "Facultylist/1.0.0": {
+      "type": "project",
+      "path": "../Facultylist/Facultylist.csproj",
+      "msbuildProject": "../Facultylist/Facultylist.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Faculty >= 1.0.0",
+      "Facultylist >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\USER\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "G:\\Practice html\\dotnet\\fifth\\Test\\Test.csproj",
+      "projectName": "Test",
+      "projectPath": "G:\\Practice html\\dotnet\\fifth\\Test\\Test.csproj",
+      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+      "outputPath": "G:\\Practice html\\dotnet\\fifth\\Test\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "G:\\Practice html\\dotnet\\fifth\\Facultylist\\Facultylist.csproj": {
+              "projectPath": "G:\\Practice html\\dotnet\\fifth\\Facultylist\\Facultylist.csproj"
+            },
+            "G:\\Practice html\\dotnet\\fifth\\Faculty\\Faculty.csproj": {
+              "projectPath": "G:\\Practice html\\dotnet\\fifth\\Faculty\\Faculty.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

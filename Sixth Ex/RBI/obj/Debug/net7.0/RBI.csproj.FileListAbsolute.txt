@@ -1,0 +1,12 @@
+G:\Practice html\dotnet\sixth\RBI\bin\Debug\net7.0\RBI.deps.json
+G:\Practice html\dotnet\sixth\RBI\bin\Debug\net7.0\RBI.dll
+G:\Practice html\dotnet\sixth\RBI\bin\Debug\net7.0\RBI.pdb
+G:\Practice html\dotnet\sixth\RBI\obj\Debug\net7.0\RBI.csproj.AssemblyReference.cache
+G:\Practice html\dotnet\sixth\RBI\obj\Debug\net7.0\RBI.GeneratedMSBuildEditorConfig.editorconfig
+G:\Practice html\dotnet\sixth\RBI\obj\Debug\net7.0\RBI.AssemblyInfoInputs.cache
+G:\Practice html\dotnet\sixth\RBI\obj\Debug\net7.0\RBI.AssemblyInfo.cs
+G:\Practice html\dotnet\sixth\RBI\obj\Debug\net7.0\RBI.csproj.CoreCompileInputs.cache
+G:\Practice html\dotnet\sixth\RBI\obj\Debug\net7.0\RBI.dll
+G:\Practice html\dotnet\sixth\RBI\obj\Debug\net7.0\refint\RBI.dll
+G:\Practice html\dotnet\sixth\RBI\obj\Debug\net7.0\RBI.pdb
+G:\Practice html\dotnet\sixth\RBI\obj\Debug\net7.0\ref\RBI.dll

@@ -1,0 +1,12 @@
+G:\Practice html\dotnet\fifth\Faculty\obj\Debug\net7.0\Faculty.csproj.AssemblyReference.cache
+G:\Practice html\dotnet\fifth\Faculty\obj\Debug\net7.0\Faculty.GeneratedMSBuildEditorConfig.editorconfig
+G:\Practice html\dotnet\fifth\Faculty\obj\Debug\net7.0\Faculty.AssemblyInfoInputs.cache
+G:\Practice html\dotnet\fifth\Faculty\obj\Debug\net7.0\Faculty.AssemblyInfo.cs
+G:\Practice html\dotnet\fifth\Faculty\obj\Debug\net7.0\Faculty.csproj.CoreCompileInputs.cache
+G:\Practice html\dotnet\fifth\Faculty\bin\Debug\net7.0\Faculty.deps.json
+G:\Practice html\dotnet\fifth\Faculty\bin\Debug\net7.0\Faculty.dll
+G:\Practice html\dotnet\fifth\Faculty\bin\Debug\net7.0\Faculty.pdb
+G:\Practice html\dotnet\fifth\Faculty\obj\Debug\net7.0\Faculty.dll
+G:\Practice html\dotnet\fifth\Faculty\obj\Debug\net7.0\refint\Faculty.dll
+G:\Practice html\dotnet\fifth\Faculty\obj\Debug\net7.0\Faculty.pdb
+G:\Practice html\dotnet\fifth\Faculty\obj\Debug\net7.0\ref\Faculty.dll
